@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ML Projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... codegeekt@gmail.com
 
 <!---
 codeXgeeky/codeXgeeky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
